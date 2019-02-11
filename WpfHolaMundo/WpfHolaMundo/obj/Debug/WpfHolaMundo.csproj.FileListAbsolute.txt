@@ -1,0 +1,15 @@
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\bin\Debug\WpfHolaMundo.exe.config
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\bin\Debug\WpfHolaMundo.exe
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\bin\Debug\WpfHolaMundo.pdb
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\WpfHolaMundo.csprojAssemblyReference.cache
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\MainWindow.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\App.g.cs
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\WpfHolaMundo_MarkupCompile.cache
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\WpfHolaMundo_MarkupCompile.lref
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\MainWindow.baml
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\WpfHolaMundo.g.resources
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\WpfHolaMundo.Properties.Resources.resources
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\WpfHolaMundo.csproj.GenerateResource.cache
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\WpfHolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\WpfHolaMundo.exe
+C:\Users\FEDERICO DIAZ\source\repos\WpfHolaMundo\WpfHolaMundo\obj\Debug\WpfHolaMundo.pdb
